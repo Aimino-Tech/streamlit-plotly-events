@@ -1,1 +1,1 @@
-recursive-include src/streamlit_plotly_events/frontend/build *
+recursive-include src/streamlit_plotly_events_custom_data/frontend/build *
